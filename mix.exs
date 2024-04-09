@@ -40,7 +40,7 @@ defmodule KindeSDK.Mixfile do
       {:plug, "~> 1.13"},
       {:plug_cowboy, "~> 2.0"},
       {:jason, "~> 1.3"},
-      {:httpoison, "~> 0.7"},
+      {:httpoison, "~> 1.4"},
       {:envar, "~> 1.1.0"},
       {:mock, "~> 0.3.0", only: :test}
     ]
